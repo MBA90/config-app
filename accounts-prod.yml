@@ -2,6 +2,5 @@ build:
   version: "accounts-prod.001.git.repo"
 
 accounts:
-  contactDetails:
-    name: "Mohammad Abdelhadi"
-    email: "{cipher}1b3bfdd79a3c530ea7616e8db195c63da34a2246a195daabc53fc6ddf1d77ef995d3664d2556f519807981c398ac9b3d"
+  name: "Mohammad Abdelhadi"
+  email: "{cipher}4974efd58c1085217bd1dded5af1174a274deb7ac9feeb3118e741f94b795077e81c1123c5eb5d013c7ec35cf0b0737e"
